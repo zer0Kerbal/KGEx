@@ -1,5 +1,5 @@
-# Hot Beverage Reheated
-#### Formerly known as Hot Beverage
+# KerbalGuise Experimental engineering (KGEx)
+#### Brings you the Assortment Pack
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
 
