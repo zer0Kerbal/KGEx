@@ -1,9 +1,9 @@
 # KerbalGuise Experimental engineering (KGEx)
 #### Brings you the Assortment Pack
-![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
+![KGEx](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
+![KGEx](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
 
-Continuation of random part by (first by nli2work), now continued by *zer0Kerbal* with community support.
+Continuation of random parts by various (named) authors, now continued by *zer0Kerbal* with community support.
 
 ## Transparent Command Pod by nil2work v1.2.3 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
