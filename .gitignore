@@ -30,5 +30,16 @@
 *.exe
 *.out
 *.app
- *.zip *.rar *.7z
-*.zip *.atom
+
+# Archive
+ *.zip
+ *.rar
+ *.7z
+*.zip
+
+# Unique
+*.atom
+
+# Office
+*.xls
+*.xlsx
