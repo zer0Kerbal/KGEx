@@ -1,0 +1,46 @@
+## change
+* aero cat to Thermal cat
+* RCS to RCSFX
+* spelling
+* formating / code cleaning
+crashtolerance 14 from 50
+maxtemp from 4000 to 3300
+
+	fuelCrossFeed = False
+	stageOffset = 1
+	childStageOffset = 1
+	
+		jettisonedObjectMass = 0.625 from 0.125
+		jettisonForce = 15 from 2
+		jettisonDirection = 0 0 1 from 0 0 -1
+
+		useChar = True
+		charModuleName = shieldChar
+## add
+* fx_gasBurst_white = 0, 0.0, 0.7, 0, 0.0, -1.0, decouple
+* sound_vent_large = decouple
+* tweakscale
+* shieldCanThrust = false
+* stagingEnabled = False
+* runningEffectName = running
+
+* EFFECTS: running
+			AUDIO_MULTI_POOL
+			MODEL_MULTI_PARTICLE
+			
+		stagingEnabled = False
+		checkBottomNode = True
+moduleliftingsurface
+	MODULE
+	{
+		name = ModuleDecouple
+		ejectionForce = 150
+		isOmniDecoupler = true
+		menuName = #autoLOC_502004 //#autoLOC_502004 = Jettison Heat Shield
+		stagingEnabled = False
+		stagingEnableText = #autoLOC_502005 //#autoLOC_502005 = HS Jettison Not Staged
+		stagingDisableText = #autoLOC_502006 //#autoLOC_502006 = HS Jettison Staged
+	}
+	
+## needs
+* tags
