@@ -1,0 +1,15 @@
+# Radial Heat Shields
+tagline: Tired of blowing up? Use RHS!
+ckan identifier: RadialHeatShields
+
+## v1.0 for KSP 1.0.5
+### License: unrestricted
+
+
+https://forum.kerbalspaceprogram.com/index.php?/topic/118875-radial-heat-shields-version-100-early-access-beta-updated-to-105/&tab=comments#comment-2131139
+
+https://forum.kerbalspaceprogram.com/index.php?/topic/117110-105-radial-heat-shields-no-longer-in-development-going-to-new-larger-mod/&tab=comments#comment-2091149
+
+https://forum.kerbalspaceprogram.com/index.php?/profile/140061-cliftonm/
+
+http://oi56.tinypic.com/nvcj0k.jpg
