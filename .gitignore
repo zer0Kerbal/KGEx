@@ -47,4 +47,5 @@
 *.7z
 *.rar
 
-KGEx/DuoPods/Squad/
+# Working files (copyright and shouldn't be included
+GameDate/KGEx/DuoPods/Squad/
