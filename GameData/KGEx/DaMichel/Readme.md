@@ -1,5 +1,5 @@
 # Spherical Tanks
-This is a continuation of DaMichel's Spherical Tanks Pack. 
+This is a continuation of DaMichel's Spherical Tanks Pack.
 
 ![SphericalTanksStacked](https://raw.githubusercontent.com/ColorCurves/colorcurves.github.io/master/pictures/DMTanks/DaMichel's%20Pics/Spherical%20Tanks%20stacked%20together%20-%20Imgur.jpg)
 
@@ -8,4 +8,4 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-pa
 
 Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
-Content orginally created by DaMichel.
+Content originally created by DaMichel.
