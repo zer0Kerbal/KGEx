@@ -10,13 +10,21 @@
 ### by Orion Space Industries
 This is a continuation of Orion Space Industries Parts Pack originally by forum user CliftonM (Clifton Marien).
 
+#### Included Parts:
+- Circular
+- Square
+- Tile (Black)
+- Tile (White)
+- Probe
+- 1.25m Popup (Popout) Heast Shield (tweakscale enabled)
+
 ![Radial Heat Shields](https://i.postimg.cc/7LxVfrFS/screenshot40.png)
 ![Radial Heat Shields](https://i.postimg.cc/dtrpCvxf/screenshot37.png)
 ![Radial Heat Shields](https://i.postimg.cc/mg6Y21SW/screenshot38.png)
 
 [original post](https://forum.kerbalspaceprogram.com/index.php?/topic/117110-*)
 
-#License:
+#### License:
 ![CC 4.0 BY-NC-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 Radial Heat Shields by Clifton Marien is licensed under a 
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
