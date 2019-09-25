@@ -9,7 +9,7 @@
 # Radial Heat Shields
 This is a continuation of Orion Space Industries Parts Pack by forum user CliftonM (Clifton Marien).
 
-![Radial Heat Shields](https://postimg.cc/w1GJGZTB)
+![Radial Heat Shields](https://i.postimg.cc/7LxVfrFS/screenshot40.png)
 
 [Permission granted by original author:](https://forum.kerbalspaceprogram.com/index.php?/topic/117110-*)
 
