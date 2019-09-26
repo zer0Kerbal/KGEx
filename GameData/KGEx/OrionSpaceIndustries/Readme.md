@@ -1,20 +1,32 @@
 # KerGuise Experimental engineering (KGEx)
 #### Brings you the Assortment Pack
-![ModVersion](https://img.shields.io/github/v/release/zer0Kerbal/KGEx?include_prereleases)
+---
+![Radient Heat Sheilds v1.0.0.1](https://img.shields.io/badge/RadientHeatSheilds-1.0.0.1-blueviolet)
 ![CKAN](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![KSP 1.7.x](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CC-BY-SA 4.0](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square) ![CC 4.0 BY-NC-SA](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey)
 
-# Spherical Tanks
-This is a continuation of DaMichel's Spherical Tanks Pack.
+## Radial Heat Shields
+### by Orion Space Industries
+This is a continuation of Orion Space Industries Parts Pack originally by forum user CliftonM (Clifton Marien).
 
-![SphericalTanksStacked](https://raw.githubusercontent.com/ColorCurves/colorcurves.github.io/master/pictures/DMTanks/DaMichel's%20Pics/Spherical%20Tanks%20stacked%20together%20-%20Imgur.jpg)
+#### Included Parts:
+- Circular
+- Square
+- Tile (Black)
+- Tile (White)
+- Probe
+- 1.25m Popup (Popout) Heast Shield (tweakscale enabled)
 
-Permission granted by original author:
-http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-partsfuselage-r2-2222015/&do=findComment&comment=2568712
+![Radial Heat Shields](https://i.postimg.cc/7LxVfrFS/screenshot40.png)
+![Radial Heat Shields](https://i.postimg.cc/dtrpCvxf/screenshot37.png)
+![Radial Heat Shields](https://i.postimg.cc/mg6Y21SW/screenshot38.png)
 
-Originally Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
+[original post](https://forum.kerbalspaceprogram.com/index.php?/topic/117110-*)
 
-Updated License under CC 4.0 BY-NC-SA (No-Commercial Attribution, Share Alike)
+#### License:
+![CC 4.0 BY-NC-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+Radial Heat Shields by Clifton Marien is licensed under a 
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Content originally created by DaMichel.
+Content originally created by @CliftonM.
