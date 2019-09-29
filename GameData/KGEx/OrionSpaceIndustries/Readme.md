@@ -15,8 +15,8 @@ This is a continuation of Orion Space Industries Parts Pack originally by forum 
 - Square
 - Tile (Black)
 - Tile (White)
-- Probe
-- 1.25m Popup (Popout) Heast Shield (tweakscale enabled)
+- 1.875m Probe (alpha)
+- 1.25m Popup (Popout) Heat Shield (tweakscale enabled)
 
 ![Radial Heat Shields](https://i.postimg.cc/7LxVfrFS/screenshot40.png)
 ![Radial Heat Shields](https://i.postimg.cc/dtrpCvxf/screenshot37.png)
