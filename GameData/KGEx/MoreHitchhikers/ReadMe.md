@@ -56,7 +56,8 @@ v1.0.0.0 for KSP v1.7.x
  * ![Kerbalism](https://github.com/Kerbalism/Kerbalism)
 
 ### Known issues:
-Restock lighting has gone nuclear.
+ * Restock lighting has gone nuclear.
+ * Only uses stock IVA - no additional IVA's are supplied.
 
 ### License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
