@@ -1,16 +1,16 @@
-<!-- Readme.md v1.0
+<!-- Readme.md v1.1
 MoreHitchhikers (MHH)
-created: 01 Oct 19
-updated: 01 Oct 19 -->
+created: 02 Oct 19
+updated: 02 Oct 19 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
 ## *More Hitchhikers* by zer0Kerbal
-v1.0.0.0 for KSP v1.7.x
+v1.0.0.2 for KSP v1.7.x
 
-![MoreHitchhikers version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
+![MoreHitchhikers version](https://img.shields.io/badge/MOD%20version-1.0.0.2-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
@@ -44,20 +44,28 @@ v1.0.0.0 for KSP v1.7.x
  * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
 
-### Suggests:
- * ![On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
- - ![KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
- * ![KGEx DuoPods](https://github.com/zer0Kerbal/KGEx/DuoPods)
- - ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
- * ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
-
 ### Supports:
+ * ***[NEW]*** ![USI-LS](https://github.com/UmbraSpaceIndustries/USI-LS)
+ * ***[NEW]*** ![ReStock](https://github.com/PorktoberRevolution/ReStocked)
+ * ![On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
+ * ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
  * ![Connected Living Space](https://github.com/codepoetpbowden/ConnectedLivingSpace)
  * ![Kerbalism](https://github.com/Kerbalism/Kerbalism)
 
+ ### Suggests:
+  * ![KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
+  * ![KGEx DuoPods](https://github.com/zer0Kerbal/KGEx/DuoPods)
+  * ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
+
+### Conflicts:
+ * None
+
 ### Known issues:
- * Restock lighting has gone nuclear.
+ * ~~~Restock lighting has gone nuclear.~~~
  * Only uses stock IVA - no additional IVA's are supplied.
+
+### Tags
+ * crew hitchhiker ksp stock restock
 
 ### License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
@@ -69,7 +77,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 01 Oct 2019 zed'K
+ ###### v1.0.0.2 original: 01 Oct 2019 zed'K | updated: 02 Oct 2019 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
