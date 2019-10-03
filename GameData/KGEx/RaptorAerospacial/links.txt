@@ -1,0 +1,97 @@
+cc 4.0
+https://spacedock.info/mod/750/Common%20Core%20Pods%20
+http://forum.kerbalspaceprogram.com/index.php?/topic/141326-common-core-pods-beta/
+https://forum.kerbalspaceprogram.com/index.php?/topic/141326-ksp-v113-common-core-pods-v06101/page/2/
+
+
+# Common Core Pods CKAN
+## The Common Core Pod Program it's a effort to develop a modular capsule suitable to a wide range missions, using well known as established materials and building techniques with Composites and 3d Printing. Not to be confused with the incomprehensible Common Core Astronaut Training Program.
+
+License: Creative Commons Attribution 4.0 International Public License
+Game Version: 1.1.3
+Downloads: 6,564
+Author: RaptorHunter @RaptorHunterMz (April 30, 2018)
+Mod Website: Forum Thread
+Followers: 35
+
+imgur
+https://imgur.com/a/taSft
+
+License: Free to use, modify and publish. (lander and 5 point)
+-----
+https://forum.kerbalspaceprogram.com/index.php?/topic/112684-112-super-100-shooting-star-super-67-little-star-command-pods/
+https://forum.kerbalspaceprogram.com/index.php?/topic/91837-raptor-aeroespacial-kerbal-transportation-system/
+https://forum.kerbalspaceprogram.com/index.php?/topic/90763-raptor-aeroespacial-lander-module-mk11/
+**** https://forum.kerbalspaceprogram.com/index.php?/topic/90143-cupola-station-hub-done-stack-landing-struts/
+https://forum.kerbalspaceprogram.com/index.php?/topic/90521-5-point-hub-minor-update-4-point-hub/
+
+https://www.curseforge.com/members/_ForgeUser17878078/projects
+
+https://www.curseforge.com/kerbal/ksp-mods/super-100-shooting-star-super-67-little-star
+cc 4
+
+![Super 100 Shooting Star](https://media.forgecdn.net/attachments/thumbnails/32/576/310/172/kugu0oq.jpg)
+ * 3.75m Command pod capable of accommodating a crew of six.
+ * This contains a 3.75m Command pod with IVA, a modified 3.75m heat shield with custom texture and fairing.
+ * The command pod has 8 retrorockets that can be used as LES and propulsive-landing.
+ * IVA requires Raster Prop Monitor to work.
+
+ 
+
+![Super 67 Little Star](https://media.forgecdn.net/attachments/thumbnails/32/577/310/172/nmuz1lj.jpg)
+ * 2.5 meter Command pod capable of accommodating a crew of three.
+ * This contains a 2.5 Command pod, a modified 2.5 heat shield with custom texture and fairing.
+ * The command pod has 4 retrorockets that can be used as LES and propulsive-landing.
+ * This uses MK.1-2 Pod stock IVA. I won't make an IVA for this pod.
+
+ Change Log:
+
+1.01
+
+Fixed license issue (Hopefully);
+
+Added cfg files for non Raster Prop Monitor IVA.
+
+1.02
+
+Fixed location of Airlock and Ladder transforms;
+
+Changed MODEL MULTI PARTICLE transform to smokepoint instead of thrustTransform;
+
+Reduced Liquid Fuel max amount.
+
+1.03
+
+Fixed some cfg and file name issues;
+
+Engines now have two modes: High thrust low ISP Launch Escape mode, and low thrust high ISP Descend mode (Default);
+
+Heatshields now decouple.
+
+Balacing Tweeks
+
+ 1.04
+
+Capsule wrong orientation fixed
+
+Balance Tweaks
+
+Removed lights animation from the super 100
+
+ 1.04.1
+
+No Changes, should work with KSP 1.1 fine.
+
+ 
+
+ 
+
+Download:
+
+Kerbal Stuff: Gone
+
+CURSE: http://kerbal.curseforge.com/projects/super-100-shooting-star-super-67-little-star
+
+SpaceDock: http://spacedock.info/mod/249/Super%20100%20Shooting%20Star%20%26%20Super%2067%20Little%20Star
+
+LICENSE: creativecommons Attribution 4.0 International 

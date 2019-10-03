@@ -1,0 +1,1 @@
+For non-Raster Prop Monitor IVA copy and replace the folders inside "Stock IVA" to the mod location.
