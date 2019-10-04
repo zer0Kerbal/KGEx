@@ -1,6 +1,6 @@
 {
-	"NAME": "KGEx",
-	"URL": "https://github.com/zer0Kerbal/KGex/master/KGEx.version",
+	"NAME": "PicoPortShielded",
+	"URL": "https://github.com/zer0Kerbal/KGex/MM-Patches/PicoPortShielded/PicoPortShielded.version",
 	"DOWNLOAD": "http://github.com/zer0Kerbal/KGEx/releases/latest",
 	"VERSION": "1.0.0.0",
 	"KSP_VERSION": {
