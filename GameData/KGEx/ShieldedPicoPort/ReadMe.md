@@ -1,16 +1,16 @@
-<!-- Readme.md v1.0.0.1
+<!-- Readme.md v1.0.0.2
 PicoPortShielded (PPS)
 created: 01 Oct 19
-updated: 04 Oct 19 -->
+updated: 05 Oct 19 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
 ## *PicoPortShielded* by zer0Kerbal
-v1.0.0.1 for KSP v1.7.x
+v1.0.0.2 for KSP v1.7.x
 
-![PicoPortShielded version](https://img.shields.io/badge/MOD%20version-1.0.0.1-orange.svg?style=flat-square)
+![PicoPortShielded version](https://img.shields.io/badge/MOD%20version-1.0.0.2-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
@@ -59,7 +59,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.0.1 original: 01 Oct 2019 zed'K | updated: 04 Oct 2019 zed'K
+ ###### v1.0.0.2 original: 01 Oct 2019 zed'K | updated: 05 Oct 2019 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
