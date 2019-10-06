@@ -1,21 +1,21 @@
-<!-- Readme.md v1.0
+<!-- Readme.md v1.0.0.1
 DockingPortDescriptions (DDD)
 created: 17 Aug 18
-updated: 03 Oct 19 -->
+updated: 05 Oct 19 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
 ## *DockingPortDescriptions* by zer0Kerbal
-v1.0.0.0 for KSP v1.7.x
+v1.0.0.2 for KSP v1.7.x
 
-![Docking Port Descriptions version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
+![Docking Port Descriptions version](https://img.shields.io/badge/MOD%20version-1.0.0.2-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
 
-## DockingPortDescriptions (DDD)
+## DockingPortDescriptions (DPD)
 ### Adds one stockalike (1) part to Kerbal Space Program
 
 ![DockingPortDescriptions]()
@@ -30,7 +30,7 @@ v1.0.0.0 for KSP v1.7.x
 - Install related ModuleManager patches.
 
 ### Changelog Summary
-*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/MM-Patches/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
+*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
 
 ### Requires:
  * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions
@@ -46,6 +46,9 @@ v1.0.0.0 for KSP v1.7.x
 
 ### Supports:
  * all sizes of docking ports
+ * ![Near Future Construction]()
+ * ![PicoPort]()
+ * ![Konstruction]()
 
 ### License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
@@ -57,7 +60,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 01 Oct 2019 zed'K
+ ###### v1.0.0.2 original: 01 Oct 2019 zed'K | updated: 05 Oct 2019 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
