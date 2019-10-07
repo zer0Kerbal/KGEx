@@ -1,4 +1,4 @@
-<!-- Readme.md v1.0.0.1
+<!-- Readme.md v1.0.0.2
 DockingPortDescriptions (DDD)
 created: 17 Aug 18
 updated: 05 Oct 19 -->
@@ -24,10 +24,10 @@ v1.0.0.2 for KSP v1.7.x
  + none
  + adds docking port size / gender(if gendered) / and if shielded to description in editor for all docking ports.
  + adds vfx and sfx to docking ports that are missing them (stock sfx vfx)
+ + Supports Near Future Construction docking port sizes
 
 #### Installation Directions (assumes basic KSP mod installation knowledge):
 - Extract to your KSP folder.
-- Install related ModuleManager patches.
 
 ### Changelog Summary
 *See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
