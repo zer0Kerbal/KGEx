@@ -9,25 +9,28 @@ Rodent II
 
  "Rodent" 1.875m Engine
 
-Just an upper-stage, 1.875m engine. Probably not too useful if you have HGR installed, but I didn't, and the lack of an upper stage engine for another mod named after a small furry critter frustrated me.
+Kickback Booster Segments
 
-License: Public Domain
+https://forum.kerbalspaceprogram.com/index.php?/topic/117662-105-custom-clusters-more-freedom-in-engine-design-no-longer-supported/
 
-Download: ![Dropbox](https://www.dropbox.com/s/i95f5l664bs9ses/RodentEngine.zip?dl=0)
 
-![Hero-1](https://i.imgur.com/c09mHWu.png)
-![Hero-2](https://i.imgur.com/WyJ9lRq.png)
+*Kinetic Penetrator by Vanguard Astrodynamics
+ License: CC-BY-NC-SA 4.0 
+https://forum.kerbalspaceprogram.com/index.php?/topic/115844-104-kinetic-penetrator-for-science-beta-no-longer-supported/&tab=comments#comment-2061780
 
-  
-_______________________________________________________________________
 
- Kickback Booster Segments
+Vanguard Astrodynamics VX Series Stockalike Engine Pack
+ Release License: CC-BY-NC-SA 4.0 
+https://forum.kerbalspaceprogram.com/index.php?/topic/115097-105-vx-series-stockalike-engine-pack-no-longer-supported/&tab=comments#comment-2044491
 
-Nothing overly special, just take a chainsaw to a Kickback, and presto! The motor plus three SF blocks should provide near-identical performance to a Kickback. There is a slight height variance as the kickback segments are actually different lengths and I just chopped the first one off. They are tweakscale compatible, but mind the amount of fuel it adds. The standard motor (and each block) contains 650 SolidFuel. Tweakscale it up to 200% and it contains 5200 SolidFuel. I had to finagle the Solidfuel flow so you may be able to find ways to abuse these.
+*Custom Clusters Stock Adapter Standalone
+Custom Clusters
+https://forum.kerbalspaceprogram.com/index.php?/topic/117662-105-custom-clusters-more-freedom-in-engine-design-no-longer-supported/&do=findComment&comment=2104082
 
-License: You may do whatever you wish with the contents herein, with the sole provision that "whatever you wish" is in the context of a mod for Kerbal Space Program.
+What you probably want for the converter is 1 Oxygen, 2 Hydrogen and ((densityOx + 2 * densityH ) / DensityWater => 0.00040455) Water. That is, 1 unit Ox per second, 2 units of H per second, and 0.00040455 H2O per second)
 
-Download: ![Dropbox](https://www.dropbox.com/s/hwxoz6s0jujb1qa/KBS_SRB.zip?dl=0)
+https://forum.kerbalspaceprogram.com/index.php?/topic/112531-wip-10x-vad-stock-lander-system-pre-release/
 
-![Kickback Booster Segments](https://i.imgur.com/yEXDPFlh.png)
+https://forum.kerbalspaceprogram.com/index.php?/topic/106460-105-heat-management-no-longer-supported/
 
+https://forum.kerbalspaceprogram.com/index.php?/topic/114845-wip-vanguard-astrodynamics-update-regarding-released-mods/
