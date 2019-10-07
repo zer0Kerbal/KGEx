@@ -25,12 +25,12 @@ v1.0.0.4 for KSP v1.7.x - Tuna Cans and Trees ReStocked
  + 1.25m [**PTD-02** ] x2 kerbals
  + 1.25m [**PTD-03** ] x3 kerbals HSC (tree)
  + 1.875m [**PDD-05** ] x3 kerbal HSC
- + 1.875m [**PDD-05f**] x4 kerbal HSC (tuna can)
+ + 1.875m [**PDD-05f**] x2 kerbal HSC (tuna can)
  + 1.875m [**PDD-05t**] x4 kerbal HSC (tall)
- + 2.5m [**PPD-10f**] x5 kerbal HSC (tuna can)
+ + 2.5m [**PPD-10f**] x3 kerbal HSC (tuna can)
  + 2.5m [**PPD-10t**] x5 kerbal HSC (tall)
  + 3.75m [**PXL-15** ] x6 kerbal HSC
- + 3.75m [**PXL-15f**] x7 kerbal HSC (tuna can)
+ + 3.75m [**PXL-15f**] x5 kerbal HSC (tuna can)
  + 3.75m [**PXL-15t**] x7 kerbal HSC (tall)
  + 5m [**PXXL-20** ] x10 kerbal HSC
  + 5m [**PXXL-20f**] x7 kerbal HSC (tuna can)

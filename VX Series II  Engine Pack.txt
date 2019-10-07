@@ -1,0 +1,58 @@
+Randazzo
+
+CC 4 and public domain existing (anything new is CC 4)
+VB Series II  Engine Pack
+https://forum.kerbalspaceprogram.com/index.php?/topic/133129-17-i-guess-vx-series-ii-engine-pack/
+https://i.imgur.com/XBRANfI.png
+ The next generation of VX series engines for the next generation of KSP
+
+Download: Curse | Spacedock
+
+Source: Unity Package
+
+License: Public Domain
+
+Album Link: http://imgur.com/a/VxvEl
+
+_______________________________________________________________________
+
+Installation
+
+Always delete old versions before installing a new one.
+
+Drag the contents of the GameData folder in the .zip file into your local .../KSP/GameData/ folder
+
+VX Series II is compatible with saves using engines from the original VX series engine pack, however some engine roles have been changed. The "impulse" and "Big Impulse" engines are most affected by these changes and I recommend not installing if you have missions in progress using these engines.
+
+__________________________________________________________________________
+
+Whats New
+
+    1.0.1
+
+    VXS20 Omicron particle effects have been adjusted. Engine effects should now better fit the nozzle.
+    VXS50 Sigma has completely new effects.
+    VXS100 Omega particle effects have also been adjusted to better suit the engine nozzle.
+
+ 
+
+    1.0.2
+        The Omicron and Sigma engines have been modified so that thrust is being generated from the Monopropellant nozzles while in Monopropellant mode. Previously thrust was being generated from the location of the main nozzle in either mode. This was an oversight.
+        The "Impulse" and "Big Impulse" have been added as optional Legacy parts. The entire original VX series is still available for download, though it is no longer supported and will not be receiving updates. By adding these parts to this pack, I will continue to support them.
+
+ 
+
+    1.0.3
+        Added custom Agency
+        Added custom Flag
+
+ 
+
+    1.0.4
+        Updated for 1.2
+        Nova model revisited to correct engine bells gimbaling in opposite directions in 1.2
+
+         
+    1.0.5
+        License updated, link to source files added
+
