@@ -1,0 +1,9 @@
+https://spacedock.info/mod/196/Dusk%20Radiothermal%20Generator%20
+arr
+This mod simply adds an advanced radiothermal generator- powerful enough to power a dawn engine on it's own. To make up for the immense power increase to the basic RTG, the Dusk weighs over eleven times as much- though it still only weighs 0.9 tons. On top of the energy production, the Dusk also stores a small amount of electricity and xenon gas.  
+
+https://imgur.com/a/VN6qU
+
+https://forum.kerbalspaceprogram.com/index.php?/topic/132547-dusk-rtg/
+
+https://forum.kerbalspaceprogram.com/index.php?/profile/152844-scullyl/
