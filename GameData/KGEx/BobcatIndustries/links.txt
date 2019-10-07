@@ -1,1 +1,39 @@
 https://forum.kerbalspaceprogram.com/index.php?/topic/73884-release-bobcat-ind-spaceampplanet-products-*
+
+https://forum.kerbalspaceprogram.com/index.php?/profile/22422-bobcat/
+
+https://forum.kerbalspaceprogram.com/index.php?/topic/19199-20xbobcat-ind-release/
+
+All BobCat ind product 88x31.png License cc by-nc-sa
+
+
+DEMV Mark 4 "RAT" Pack realese
+
+acF93.png
+
+Small and lightweight rover for exploring planet. 2 kerbals on aboard.
+Crew - 2
+
+weight - 4t
+
+average payload - not tested
+
+max payload - not tested
+
+max speed - 130km\h (1G)
+
+Including
+
+- Rover DEMV Mark 4 "RAT"
+
+- cargo pack
+
+------ Energy module. RTG and Batteries
+
+------ Liquid fuel tank
+
+------ Kethane Tank (wait Kethane mod new realese)
+
+- Mark 4 "ION" ion engine
+
+- Mark 4 Liquid fuel engine

@@ -1,0 +1,71 @@
+NOTE:  The Mk5 was designed for 0.18 but is being released with plugin support in 0.17.1, the plugins have some bugs.  We're not going to fix them or make adjustments until 0.18.
+
+Requirements:
+KSP 0.18
+CleverBobcat 1.1.2 (Bobcat Ind.)
+
+Installation:
+Extract all folders into your KSP game directory.
+
+
+Who is Bobcat Ind.?
+We are an international group of KSP enthusiasts from Russian, Italy, Canada and the USA.
+None of us are professional game developers nor do we have much modding experience, we just work long hours to make the parts we release.
+
+Special Thanks:
+Kreuzung for his EE mod and friendly support.
+Tosh for Cart and for being the brilliant grumpy old man of KSP modders.
+6677 for continuing development of Cart.
+
+
+
+
+FAQ:
+
+Q:  What happened to the integrated solar panels?
+A:  We removed them.  Use the Stock ones.
+
+Q:  Why does it say "part not available"?
+A:  Because you didn't install the mod correctly.  See above.
+
+Q:  I ran out of power and now I can't restart.  
+A:  All functions disable when power reaches zero.  Restart engines, steering, lights, etc. with the context menu.
+
+Q:  I can't drive the rover.
+A:  Press G to deploy the wheels.
+
+Q:  What are the control keys?
+A:
+ 
+I = Forward
+K = Reverse
+J = Left Turn
+L = Right Turn
+U = Headlights
+N = Brakes
+B = Parking Brake
+G = deploy Wheels
+Right click on the rover for additional options menu.
+
+Q: I have problems using surface attach with the rover.
+A: Yes we disabled it to make it easier to place inside the HOME Recon Module.
+
+Q:  The NavBall blocks the context menu, I can't see all of the context menu.
+A:  You'll need to change resolutions or change the UI scaling in settings.
+
+Q:  Can I disable <feature>
+A:  Yes, just look in the part.cfg.
+
+Q:  Will you change <feature>
+A:  No, do it yourself by editing the part.cfg.
+
+Q:  Can I be a tester for Bobcat Ind.?
+A:  No.
+
+Q:  Why is <feature> configured with <setting>?
+A:  Because I balanced it that way.  I like it.  If you don't, edit the part.cfg to a setting you do like.
+
+Q:  The rover flipped over what can I do?
+A1:  Take driving lessons.  It's very difficult to flip the Mk5.
+A2:  Use the commandpod reaction wheel (ASAS) WASD keys and see if you can right yourself.
+A3:  Reload your savegame and don't do again whatever you did to flip last time.

@@ -1,0 +1,34 @@
+The DEMV Mk5, affectionally nicknamed the "Ant", is a dedicated exploration and crew mobility rover designed to be small, lightweight and easy to transport to it's destination.
+
+The Mk5 is limited in range and capacity, due to it's design criteria being focused on reduced size and weight, but you get a lot of capability in this tiny package.
+
+The Mk5 Eye Candy:
+* animated wheel deployment (G)
+* animated antenna (only cosmetic for now)
+* animated EVA front hatch (must open hatch to exit)
+* fully detailed interior and visible interior when hatch open.
+
+Mk5 Functions include:
+* Speed-proportional energy consumption.
+* system shutdown when power depleted (you need to restart engines, steering, lights)
+* lights use power
+* targeted or Area of Effect energy replenishment/transfer
+* Mk5 is a stock KSP commandpod.  (No more debris issues)
+* commandpod reaction wheel (pod ASAS) allows rover to self right in most medium to low G environments.
+
+
+User Adjustable Functions:
+All features are user configurable or can be turned off. For example, if you don't like power use for your rover, you can disable it.
+
+Specifications:
+Crew Capacity: 2
+Mass: 1.25
+Unrecharged Range: >10Km (user configurable)
+Recharged Range:  Unlimited
+
+ 
+
+
+
+
+
