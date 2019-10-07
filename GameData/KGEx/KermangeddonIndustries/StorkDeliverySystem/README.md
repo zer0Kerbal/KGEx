@@ -1,4 +1,4 @@
-Stork Delivery System
+Stork Delivery System [SDS] by Riocrokite
 ===
 
 Vertical frames with integrated legs for interstage and planetary delivery.
@@ -22,3 +22,5 @@ Stork Delivery System is licensed under a Creative Commons Attribution-NonCommer
 * You may not use the material for any commercial purposes.
 * You must use the same license as the original work.
 * You must credit the following people when publishing your derivative: riocrokite (Stork Delivery System).
+
+original thread: https://forum.kerbalspaceprogram.com/index.php?/topic/97146-130-mobile-frame-system-mfs-*
