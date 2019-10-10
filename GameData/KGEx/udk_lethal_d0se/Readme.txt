@@ -41,5 +41,6 @@ Additional mods that are required, supported and recommended by this pack.
     [Supported] KeepFit by @timmers_uk
 
 http://forum.kerbalspaceprogram.com/index.php?/topic/147354-113-large-structural-components-redux-09092016/
+https://forum.kerbalspaceprogram.com/index.php?/topic/147354-12-large-structural-components-redux-v131-17th-september-2016/
 
 
