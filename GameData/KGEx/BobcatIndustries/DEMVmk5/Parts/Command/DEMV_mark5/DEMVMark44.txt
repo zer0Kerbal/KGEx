@@ -1,0 +1,126 @@
+[LOG 05:07:36.143] [DebugStuff] +DEMVMark4 T:Untagged L:0 (Default)
+|   Transform - DEMVMark4
+|   Part - DEMVMark4
+|   Highlighter - DEMVMark4
+|   ModulePartInfo - DEMVMark4
+|   AudioSource - DEMVMark4
+|   Rigidbody - DEMVMark4
+| 
+ --+model T:Untagged L:0 (Default)
+   |   Transform - model
+   | 
+   |---anchor1 T:Untagged L:0 (Default)
+   |      Transform - anchor1
+   |    
+   |---anchor2 T:Untagged L:0 (Default)
+   |      Transform - anchor2
+   |    
+   |---anchor3 T:Untagged L:0 (Default)
+   |      Transform - anchor3
+   |    
+   |---anchor4 T:Untagged L:0 (Default)
+   |      Transform - anchor4
+   |    
+   |---anchor5 T:Untagged L:0 (Default)
+   |      Transform - anchor5
+   |    
+   |---anchor6 T:Untagged L:0 (Default)
+   |      Transform - anchor6
+   |    
+   |---base_cart T:Untagged L:0 (Default)
+   |      Transform - base_cart
+   |      MeshCollider - base_cart
+   |      MeshFilter - base_cart
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---bumper T:Untagged L:0 (Default)
+   |      Transform - bumper
+   |      MeshFilter - bumper
+   |      MeshRenderer - DEMVMark4cart (Instance) - KSP/Diffuse
+   |    
+   |---bumper_node T:Untagged L:0 (Default)
+   |      Transform - bumper_node
+   |      MeshCollider - bumper_node
+   |    
+   |---cart T:Untagged L:0 (Default)
+   |      Transform - cart
+   |    
+   |---light_head1 T:Untagged L:0 (Default)
+   |      Transform - light_head1
+   |      MeshFilter - light_head1
+   |      MeshRenderer - DEMVMark4cart (Instance) - KSP/Diffuse
+   |    
+   |---light_head2 T:Untagged L:0 (Default)
+   |      Transform - light_head2
+   |      MeshFilter - light_head2
+   |      MeshRenderer - DEMVMark4cart (Instance) - KSP/Diffuse
+   |    
+   |---light_stop1 T:Untagged L:0 (Default)
+   |      Transform - light_stop1
+   |      MeshFilter - light_stop1
+   |      MeshRenderer - DEMVMark4cart (Instance) - KSP/Diffuse
+   |    
+   |---rotatingLever1 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever1
+   |      MeshFilter - rotatingLever1
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---rotatingLever2 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever2
+   |      MeshFilter - rotatingLever2
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---rotatingLever3 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever3
+   |      MeshFilter - rotatingLever3
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---rotatingLever4 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever4
+   |      MeshFilter - rotatingLever4
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---rotatingLever5 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever5
+   |      MeshFilter - rotatingLever5
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---rotatingLever6 T:Untagged L:0 (Default)
+   |      Transform - rotatingLever6
+   |      MeshFilter - rotatingLever6
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel1_ms T:Untagged L:0 (Default)
+   |      Transform - wheel1_ms
+   |      MeshFilter - wheel1_ms
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel2_m T:Untagged L:0 (Default)
+   |      Transform - wheel2_m
+   |      MeshFilter - wheel2_m
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel3_ms T:Untagged L:0 (Default)
+   |      Transform - wheel3_ms
+   |      MeshFilter - wheel3_ms
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel4_m T:Untagged L:0 (Default)
+   |      Transform - wheel4_m
+   |      MeshFilter - wheel4_m
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel5_ms T:Untagged L:0 (Default)
+   |      Transform - wheel5_ms
+   |      MeshFilter - wheel5_ms
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+   |---wheel6_ms T:Untagged L:0 (Default)
+   |      Transform - wheel6_ms
+   |      MeshFilter - wheel6_ms
+   |      MeshRenderer - No Name (Instance) - KSP/Bumped
+   |    
+    ---Surface Attach Collider T:Untagged L:0 (Default)
+          Transform - Surface Attach Collider
+          SphereCollider - Surface Attach Collider
+        

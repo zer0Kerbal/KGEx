@@ -1,0 +1,90 @@
+ [DebugStuff] +DEMVMark4pod T:Untagged L:0 (Default)
+|   Transform - DEMVMark4pod
+|   Part - DEMVMark4pod
+|   Highlighter - DEMVMark4pod
+|   ModuleCommand - DEMVMark4pod
+|   ModuleGenerator - DEMVMark4pod
+|   ModuleAnimateGeneric - DEMVMark4pod
+|   ModuleDataTransmitter - DEMVMark4pod
+|   LogisticsModule - DEMVMark4pod
+|   ModuleExperienceManagement - DEMVMark4pod
+|   ModuleInventoryPart - DEMVMark4pod
+|   ModulePartInfo - DEMVMark4pod
+|   FlightEngineerModule - DEMVMark4pod
+|   ModuleTripLogger - DEMVMark4pod
+|   AudioSource - DEMVMark4pod
+|   Rigidbody - DEMVMark4pod
+| 
+|--+model T:Untagged L:0 (Default)
+|  |   Transform - model
+|  | 
+|  |--+base T:Untagged L:0 (Default)
+|  |  |   Transform - base
+|  |  |   MeshFilter - base
+|  |  |   MeshRenderer - No Name (Instance) - KSP/Bumped
+|  |  | 
+|  |  |---base_002 T:Untagged L:0 (Default)
+|  |  |      Transform - base_002
+|  |  |      MeshFilter - base_002
+|  |  |      MeshRenderer - DEMVMark4pod (Instance) - KSP/Bumped
+|  |  |    
+|  |  |--+bladder T:Untagged L:0 (Default)
+|  |  |  |   Transform - bladder
+|  |  |  |   MeshFilter - bladder
+|  |  |  |   MeshRenderer - unnamed (Instance) - KSP/Bumped
+|  |  |  | 
+|  |  |  |---ladder2_2 T:Ladder L:21 (Part Triggers)
+|  |  |  |      Transform - ladder2_2
+|  |  |  |      MeshCollider - ladder2_2
+|  |  |  |    
+|  |  |   ---ladder_2 T:Ladder L:21 (Part Triggers)
+|  |  |         Transform - ladder_2
+|  |  |         MeshCollider - ladder_2
+|  |  |       
+|  |  |--+door T:Untagged L:0 (Default)
+|  |  |  |   Transform - door
+|  |  |  |   MeshCollider - door
+|  |  |  |   MeshFilter - door
+|  |  |  |   MeshRenderer - None__DEMVMark4pod_png (Instance) - KSP/Bumped
+|  |  |  |   Animation - door
+|  |  |  | 
+|  |  |  |---airlock T:Airlock L:21 (Part Triggers)
+|  |  |  |      Transform - airlock
+|  |  |  |      MeshCollider - airlock
+|  |  |  |    
+|  |  |   ---door_glass T:Untagged L:0 (Default)
+|  |  |         Transform - door_glass
+|  |  |         MeshFilter - door_glass
+|  |  |         MeshRenderer - DEMVMark4_internal (Instance) - KSP/Bumped Specular
+|  |  |       
+|  |  |---glass T:Untagged L:0 (Default)
+|  |  |      Transform - glass
+|  |  |      MeshFilter - glass
+|  |  |      MeshRenderer - DEMVMark4_internal (Instance) - KSP/Bumped Specular
+|  |  |    
+|  |  |--+interior_001 T:Untagged L:0 (Default)
+|  |  |  |   Transform - interior_001
+|  |  |  |   MeshFilter - interior_001
+|  |  |  |   MeshRenderer - Interior (Instance) - KSP/Diffuse
+|  |  |  | 
+|  |  |   ---GameObject T:Untagged L:0 (Default)
+|  |  |         Transform - GameObject
+|  |  |         Light - GameObject
+|  |  |       
+|  |  |---node_collider T:Untagged L:0 (Default)
+|  |  |      Transform - node_collider
+|  |  |      MeshCollider - node_collider
+|  |  |      MeshFilter - node_collider
+|  |  |    
+|  |   ---node_collider_001 T:Untagged L:0 (Default)
+|  |         Transform - node_collider_001
+|  |         MeshCollider - node_collider_001
+|  |         MeshFilter - node_collider_001
+|  |       
+|   ---Surface Attach Collider T:Untagged L:0 (Default)
+|         Transform - Surface Attach Collider
+|         SphereCollider - Surface Attach Collider
+|       
+ ---_default T:Untagged L:0 (Default)
+       Transform - _default
+     

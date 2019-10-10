@@ -1,0 +1,212 @@
+[LOG 04:57:32.708] [DebugStuff] +DEMVmk5-M T:Untagged L:0 (Default)
+|   Transform - DEMVmk5-M
+|   Part - DEMVmk5-M
+|   Highlighter - DEMVmk5-M
+|   ModuleCommand - DEMVmk5-M
+|   ModuleRCSFX - DEMVmk5-M
+|   ModuleScienceContainer - DEMVmk5-M
+|   ModuleScienceExperiment - DEMVmk5-M
+|   ModuleDeployableSolarPanel - DEMVmk5-M
+|   ModuleAnimateGeneric - DEMVmk5-M
+|   ModuleAnimateGeneric - DEMVmk5-M
+|   AudioMultiPooledFX - DEMVmk5-M
+|   ModelMultiParticleFX - DEMVmk5-M
+|   ModuleDataTransmitter - DEMVmk5-M
+|   LogisticsModule - DEMVmk5-M
+|   ModuleExperienceManagement - DEMVmk5-M
+|   ModuleInventoryPart - DEMVmk5-M
+|   ModulePartInfo - DEMVmk5-M
+|   FlightEngineerModule - DEMVmk5-M
+|   AudioSource - DEMVmk5-M
+|   Rigidbody - DEMVmk5-M
+| 
+|--+model T:Untagged L:0 (Default)
+|  |   Transform - model
+|  | 
+|  |--+ant_base T:Untagged L:0 (Default)
+|  |  |   Transform - ant_base
+|  |  |   MeshFilter - ant_base
+|  |  |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |   Animation - ant_base
+|  |  | 
+|  |  |--+ant_segment T:Untagged L:0 (Default)
+|  |  |  |   Transform - ant_segment
+|  |  |  |   MeshFilter - ant_segment
+|  |  |  |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |  | 
+|  |  |   --+ant_segment1 T:Untagged L:0 (Default)
+|  |  |     |   Transform - ant_segment1
+|  |  |     |   MeshFilter - ant_segment1
+|  |  |     |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |     | 
+|  |  |      ---ant_segment2 T:Untagged L:0 (Default)
+|  |  |            Transform - ant_segment2
+|  |  |            MeshFilter - ant_segment2
+|  |  |            MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |          
+|  |  |--+base_panel T:Untagged L:0 (Default)
+|  |  |  |   Transform - base_panel
+|  |  |  |   MeshFilter - base_panel
+|  |  |  |   MeshRenderer - No Name (Instance) (Instance) - KSP/Bumped Specular
+|  |  |  |   Animation - base_panel
+|  |  |  | 
+|  |  |  |--+rover_door T:Untagged L:0 (Default)
+|  |  |  |  |   Transform - rover_door
+|  |  |  |  |   MeshCollider - rover_door
+|  |  |  |  |   MeshFilter - rover_door
+|  |  |  |  |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |  |  | 
+|  |  |  |   ---sunCatcher T:Untagged L:0 (Default)
+|  |  |  |         Transform - sunCatcher
+|  |  |  |         MeshFilter - sunCatcher
+|  |  |  |         MeshRenderer - No Name (Instance) (Instance) - KSP/Bumped Specular
+|  |  |  |       
+|  |  |   --+rover_door_001 T:Untagged L:0 (Default)
+|  |  |     |   Transform - rover_door_001
+|  |  |     |   MeshCollider - rover_door_001
+|  |  |     |   MeshFilter - rover_door_001
+|  |  |     |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |  |     | 
+|  |  |      ---sunCatcher T:Untagged L:0 (Default)
+|  |  |            Transform - sunCatcher
+|  |  |            MeshFilter - sunCatcher
+|  |  |            MeshRenderer - No Name (Instance) (Instance) - KSP/Bumped Specular
+|  |  |          
+|  |   --+HATCHObject T:Untagged L:0 (Default)
+|  |     |   Transform - HATCHObject
+|  |     | 
+|  |     |---airlock T:Airlock L:21 (Part Triggers)
+|  |     |      Transform - airlock
+|  |     |      MeshCollider - airlock
+|  |     |    
+|  |      --+hatch T:Untagged L:0 (Default)
+|  |        |   Transform - hatch
+|  |        |   MeshCollider - hatch
+|  |        |   MeshFilter - hatch
+|  |        |   MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |        | 
+|  |         ---GameObject T:Untagged L:0 (Default)
+|  |               Transform - GameObject
+|  |               MeshFilter - GameObject
+|  |               MeshRenderer - No Name (Instance) (Instance) - KSP/Bumped Specular
+|  |             
+|  |---base T:Untagged L:0 (Default)
+|  |      Transform - base
+|  |      MeshCollider - base
+|  |      MeshFilter - base
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---bob T:Untagged L:0 (Default)
+|  |      Transform - bob
+|  |      MeshFilter - bob
+|  |      MeshRenderer - No Name (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |--+interiror0007 T:Untagged L:0 (Default)
+|  |  |   Transform - interiror0007
+|  |  |   MeshFilter - interiror0007
+|  |  |   MeshRenderer - rover mini_interior (Instance) (Instance) - KSP/Bumped
+|  |  |   Animation - interiror0007
+|  |  | 
+|  |  |---GameObject T:Untagged L:0 (Default)
+|  |  |      Transform - GameObject
+|  |  |      Light - GameObject
+|  |  |    
+|  |  |---GameObject T:Untagged L:0 (Default)
+|  |  |      Transform - GameObject
+|  |  |      Light - GameObject
+|  |  |    
+|  |  |---interiror0008 T:Untagged L:0 (Default)
+|  |  |      Transform - interiror0008
+|  |  |      MeshFilter - interiror0008
+|  |  |      MeshRenderer - Material (Instance) (Instance) - KSP/Emissive/Diffuse
+|  |  |    
+|  |  |---seat T:Untagged L:0 (Default)
+|  |  |      Transform - seat
+|  |  |      MeshFilter - seat
+|  |  |      MeshRenderer - rover mini_interior (Instance) (Instance) - KSP/Bumped
+|  |  |    
+|  |   ---seat T:Untagged L:0 (Default)
+|  |         Transform - seat
+|  |         MeshFilter - seat
+|  |         MeshRenderer - rover mini_interior (Instance) (Instance) - KSP/Bumped
+|  |       
+|  |---light_head1 T:Untagged L:0 (Default)
+|  |      Transform - light_head1
+|  |      MeshFilter - light_head1
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---light_head2 T:Untagged L:0 (Default)
+|  |      Transform - light_head2
+|  |      MeshFilter - light_head2
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---lopata T:Untagged L:0 (Default)
+|  |      Transform - lopata
+|  |      MeshFilter - lopata
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---rotatingLever1 T:Untagged L:0 (Default)
+|  |      Transform - rotatingLever1
+|  |      MeshFilter - rotatingLever1
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---rotatingLever2 T:Untagged L:0 (Default)
+|  |      Transform - rotatingLever2
+|  |      MeshFilter - rotatingLever2
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---rotatingLever3 T:Untagged L:0 (Default)
+|  |      Transform - rotatingLever3
+|  |      MeshFilter - rotatingLever3
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---rotatingLever4 T:Untagged L:0 (Default)
+|  |      Transform - rotatingLever4
+|  |      MeshFilter - rotatingLever4
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---sunCatcher T:Untagged L:0 (Default)
+|  |      Transform - sunCatcher
+|  |    
+|  |---wheel1_ms T:Untagged L:0 (Default)
+|  |      Transform - wheel1_ms
+|  |      MeshFilter - wheel1_ms
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---anchor1 T:Untagged L:0 (Default)
+|  |      Transform - anchor1
+|  |    
+|  |---anchor2 T:Untagged L:0 (Default)
+|  |      Transform - anchor2
+|  |    
+|  |---wheel2_ms T:Untagged L:0 (Default)
+|  |      Transform - wheel2_ms
+|  |      MeshFilter - wheel2_ms
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---anchor3 T:Untagged L:0 (Default)
+|  |      Transform - anchor3
+|  |    
+|  |---wheel3_ms T:Untagged L:0 (Default)
+|  |      Transform - wheel3_ms
+|  |      MeshFilter - wheel3_ms
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|  |---anchor4 T:Untagged L:0 (Default)
+|  |      Transform - anchor4
+|  |    
+|  |---wheel4_ms T:Untagged L:0 (Default)
+|  |      Transform - wheel4_ms
+|  |      MeshFilter - wheel4_ms
+|  |      MeshRenderer - rover mini (Instance) (Instance) - KSP/Bumped Specular
+|  |    
+|   ---Surface Attach Collider T:Untagged L:0 (Default)
+|         Transform - Surface Attach Collider
+|         SphereCollider - Surface Attach Collider
+|       
+|---_default T:Untagged L:0 (Default)
+|      Transform - _default
+|    
+ ---reverse T:Untagged L:0 (Default)
+       Transform - reverse
+     
