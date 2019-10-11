@@ -1,0 +1,1 @@
+get-childitem -recurse -Include *.3gp | foreach { rename-item $_ $_.Name.Replace("_", "") }
