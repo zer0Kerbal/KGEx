@@ -1,36 +1,52 @@
-<!-- Readme.md v1.0.0.2
-DockingPortDescriptions (DDD)
+<!-- Readme.md v1.0.0.0
+SimpleCargoSolutions (SCS)
 created: 17 Aug 18
-updated: 05 Oct 19 -->
+updated: 13 Oct 19 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
-## *DockingPortDescriptions* by zer0Kerbal
-v1.0.0.2 for KSP v1.7.x
+## Axial Aerospaces's *Simple Cargo Solutions*
+###### *oringinally by artwhaley, now continued by zer0Kerbal*
+---
+v1.0.0.0 for KSP v1.7.x
 
-![Docking Port Descriptions version](https://img.shields.io/badge/MOD%20version-1.0.0.2-orange.svg?style=flat-square)
+![SimpleCargoSolutions version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
 
-## DockingPortDescriptions (DPD)
-### Adds one stockalike (1) part to Kerbal Space Program
+## Simple Cargo Solutions (SCS)
+### Adds nine (9) stockalike parts to Kerbal Space Program
+#### New From Axial Aerospace...  A couple of parts to solve a hole in the stock lineup!  
 
-![DockingPortDescriptions]()
+`There are great cargo bays in several other big mod packs, but a request came up for just a couple of simple cargo bays.... and here they are!  (artwhaley) even stopped (myself) from scope creeping this until there were two dozen different parts!
 
+Bays come in 1.25m and 2.5m diameters.  They've got enough heat tolerance to survive a well planned reentry.  Included is a slim/low-profile version of the Junior docking port designed to fit on the mid-bay-wall node of the bays without hanging through the hull.
+
+The 2.5m (and larger) has integrated ladders inside the bay for getting around. `
+
+![SimpleCargoSolutions](https://i.imgur.com/eCWQnU9.png)
+![SimpleCargoSolutions]()
 ### Parts:
- + none
- + adds docking port size / gender(if gendered) / and if shielded to description in editor for all docking ports.
- + adds vfx and sfx to docking ports that are missing them (stock sfx vfx)
- + Supports Near Future Construction docking port sizes
+ + 0.625m Cargo Bay
+ + 1.25m Cargo Bay
+ + 2.5m Cargo Bay
+ + 1.875m Cargo Bay
+ + 2.5m Cargo Bay
+ + 3.75m Cargo Bay
+ + 5.0m Cargo Bay
+ + 5.0m Cargo Bay (tall)
+ + Cargo Bay 'low-profile(LP)' docking port size0 (Junior)
+ + Cargo Bay 'low-profile(LP)' docking port size1
 
+ ![SimpleCargoSolutions](https://i.imgur.com/gRyM196.png)
 #### Installation Directions (assumes basic KSP mod installation knowledge):
 - Extract to your KSP folder.
 
 ### Changelog Summary
-*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
+*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/SimpleCargoSolutions/Changelog.cfg) for full details of mod changes*
 
 ### Requires:
  * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions
@@ -50,17 +66,18 @@ v1.0.0.2 for KSP v1.7.x
  * ![PicoPort]()
  * ![Konstruction]()
 
+ ![SimpleCargoSolutions](https://i.imgur.com/KWBcVRW.png)
 ### License
-![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
-content licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+![GNU LESSER GPL-v3]()GNU LESSER GENERAL PUBLIC LICENSE v3
 
-`You may modify for personal use. You may redistribute content with attribution to original author zer0Kerbal, plus any other attribution where required. You must redistribute under identical license, CC BY-NC-SA 4.0.`
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+### original
+https://www.curseforge.com/kerbal/ksp-mods/axial-aerospace-simple-cargo-solutions
+https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.0.2 original: 01 Oct 2019 zed'K | updated: 05 Oct 2019 zed'K
+ ![SimpleCargoSolutions](https://i.imgur.com/RW12Uq4.png)
+ ###### v1.0.0.0 original: 13 Oct 2019 zed'K | updated: 13 Oct 2019 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
