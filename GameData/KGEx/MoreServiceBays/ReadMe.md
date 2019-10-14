@@ -18,7 +18,7 @@ v1.0.0.0 for KSP v1.7.x - Bays of Service
 ## More Service Bays (MSB)
 ### Adds ten (10) stock parts to Kerbal Space Program
 
-![More Service Bays](https://i.postimg.cc/Vs3rb8wH/Heroshot-3-labels.png)
+![More Service Bays]()
 
 ### Parts:
  + 0.625m [**PTD-00** ]
