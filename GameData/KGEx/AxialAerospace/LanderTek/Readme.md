@@ -1,3 +1,29 @@
+<!-- Readme.md v1.0.0.0
+LanderTek (LTk)
+created: 17 Aug 18
+updated: 20 Oct 19 -->
+
+<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
+
+# KerbGuise Experimental engineering (KGEx)
+#### Brings you:
+## Axial Aerospaces's *LanderTek*
+###### *oringinally by artwhaley, now continued by zer0Kerbal*
+---
+v1.0.0.0 for KSP v1.7.x
+
+![LanderTek version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
+![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
+<a href="http://www.wtfpl.net/"><img
+     src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+     width="80" height="15" alt="WTFPL" /></a>
+<!-- ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey) -->
+
+## LanderTek (LTk)
+
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)DO WHAT THE F(CK YOU WANT TO PUBLIC LICENSE
+
 Development Download Now Available: ((Updated for 1.0.5!)
 ![](https://i.imgur.com/fdd0qdX.gif)
 ![]()
