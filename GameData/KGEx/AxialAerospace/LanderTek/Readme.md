@@ -35,21 +35,15 @@ Here's what's currently in the pack:
 
 A 2.5m, 3 man lander can . The exterior is finished, the interior is just a couple of RPM huds in the pilot's seat... the interior will eventually be fleshed out in the same near-future style as my dreamchaser IVA, but that's way down the line.
 
-A 2.5m stack that includes:
+- A 2.5m stack that includes:
+- Upperstage with high TWR engine, fuel, monoprop, and integrated 5 way RCS Thrusters.
+- Lowerstage with low TWR engine and fuel
+- Slim decoupler
+- Undercarriage truss (also fits well on 1.875 engine part
+- Undercarriage truss with integrated legs (little buggy... but then, most single parts with multiple legs are....) and both surface and node attach points for science and miscellaneous
+- Additional 2.5m fuel tank for adding deltav to either stage
 
-Upperstage with high TWR engine, fuel, monoprop, and integrated 5 way RCS Thrusters.
-
-Lowerstage with low TWR engine and fuel
-
-Slim decoupler
-
-Undercarriage truss (also fits well on 1.875 engine part
-
-Undercarriage truss with integrated legs (little buggy... but then, most single parts with multiple legs are....) and both surface and node attach points for science and miscellaneous
-
-Additional 2.5m fuel tank for adding deltav to either stage
-
-A 1.875m Single Stage engine module that includes onboard RCS thrusters and monoprop storage in addition to the main engine and fuel. Works great with the stock lander can and the ALCOR capsule!
+- A 1.875m Single Stage engine module that includes onboard RCS thrusters and monoprop storage in addition to the main engine and fuel. Works great with the stock lander can and the ALCOR capsule!
 
 A 1.25m stack that includes
 
@@ -75,7 +69,7 @@ Docking port for skycrane payloads
 
 Two landing legs - one that extends straight and one that folds away up for more clearance when stowed.
 
-Smaller surface/node mountable versions of the goo container and materials bay - identical to stock but with cool new models and designed to mount to my lander undercarriages
+Smaller surface/node mountable versions of the goo container and materials bay - identical to stock but with cool new models and  designed to mount to my lander undercarriages
 
 Sample Return case - a cute little box that can store science experiment results. It still can only hold one of each experiment, but you can carry multiples! Put two of these on the upper stage and all your experiments on the lower stage and you can have your scientist run all experiments 3 times, putting one result in each container and carrying the third into the pod then leave all the heavy science equipment behind when you blast off! Or carry 8 cases with you and let a scientist biome hop several times before returning to an orbital lab to stash the data there!
 
