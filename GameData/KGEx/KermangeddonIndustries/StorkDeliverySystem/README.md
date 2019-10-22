@@ -2,8 +2,20 @@ Stork Delivery System [SDS] by Riocrokite
 ===
 
 Vertical frames with integrated legs for interstage and planetary delivery.
+ Stork Delivery System
 
-Mobile Frame System is a mod for KSP game and an original work of riocrokite (github user riocrokite).
+Deliver your big cargo to the planet surface without flipping! 
+
+Mobile Frame System is a mod for KSP game and an original work of riocrokite (github user @riocrokite).
+
+![Kermangeddon Industries](https://i.imgur.com/cSfMXiL.png)
+
+Stork Delivery System
+
+Deliver your big cargo to the planet surface without flipping! 
+![Stork Delivery System](https://i.imgur.com/DpC5aaT.png)
+
+![Stork Frame with Legs](https://i.imgur.com/np7h3te.gif)
 
 ### Mod characteristics
 
