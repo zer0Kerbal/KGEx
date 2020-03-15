@@ -25,8 +25,9 @@
  * ![Kerbal Change Log]() 
 
 ## License
-![[MIT](https://img.shields.io/badge/license-MIT-success) https://mit-license.org/] 
-<a href="https://mit-license.org/" target="_blank"><img src="https://postimg.cc/21TKt0Vd" alt="MIT" title="License"/></a> "MIT")
+![MIT](https://img.shields.io/badge/license-MIT-red?style=plastic) ![https://mit-license.org](https://i.postimg.cc/bvjfsMP5/MIT-17x17.png)  
+
+<a href="https://mit-license.org/" target="_blank"><img src="https://i.postimg.cc/bvjfsMP5/MIT-17x17.png" alt="MIT" title="License"/></a> "MIT")
 
 https://mit-license.org/
 
