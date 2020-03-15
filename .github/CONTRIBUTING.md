@@ -45,7 +45,7 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
 
 ***
 
-*click the red box because it is also a link*
+*click the red box because it is also a link*  
 [![How to get support][image:get-support]][thread:getsupport]
 
 # Read this page before reporting a bug.
