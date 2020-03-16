@@ -6,7 +6,7 @@
     "GITHUB" :
     {
         "USERNAME"          : "zer0Kerbal",
-        "KGExSITORY"        : "KGEx",
+        "REPOSITORY"        : "KGEx",
         "ALLOW_PRE_RELEASE" : false
     },
     "VERSION" :
