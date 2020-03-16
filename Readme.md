@@ -3,7 +3,7 @@
 ![][SHIELD:mod] ![][SHIELD:ksp] ![][SHIELD:ksp-avc] ![MOD:license][SHIELD:license] ![][LOGO:mit]  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
-Common B9 tanktypes and TweakScale scaletype files for mods.
+Common B9 tanktypes and TweakScale scaletypes for mods.
 
 *click the red box because it is also a link*  
 [![How to get support][image:get-support]][thread:getsupport]
