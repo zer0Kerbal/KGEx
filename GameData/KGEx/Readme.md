@@ -26,6 +26,7 @@ updated: 2020 03 27 -->
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 ### Recomends  
+- [x] [B9 Stock Patches][thread:B9S]  
 - [x] [B9PartSwitcher][thread:B9] 
 - [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 
 - [x] [TweakScale][thread:twk]
@@ -50,6 +51,7 @@ updated: 2020 03 27 -->
 - [x] [SimpleConstructon!][thread:SC!]  
 - [x] [Not So SimpleConstructon!][thread:NSSC] 
 ### Supports
+- [x] [B9 Stock Patches][thread:B9S]
 - [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 
 - [x] [TweakScale][thread:twk]
 - [x] [B9PartSwitcher][thread:B9] 
@@ -80,7 +82,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [MOD:wiki]:         https://github.com/zer0Kerbal/KGEx/  
 [MOD:known]:        https://github.com/zer0Kerbal/KGEx/wiki/Known-Issues  
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*   
-[MOD:github:repo]:  https://github.com/zer0Kerbal/KGEx/
+[MOD:github:repo]:  https://github.com/zer0Kerbal/kgex/
 [MOD:changelog]:    https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/Changelog.cfg
 [KSP:website]:      http://kerbalspaceprogram.com/
 
@@ -140,6 +142,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
 [thread:NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
+[thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Patches"  
 [thread:CTN]:  http:// "CTN (CTN)"  
 [thread:DRL]: https:// "DRElite (DRL)"  
 [thread:VG0]:  http:// "Vanguard (VG0)"  
