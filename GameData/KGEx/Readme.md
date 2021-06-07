@@ -25,7 +25,7 @@ updated: 2020 03 27 -->
 [![CKAN][image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-### Recomends  
+### Recommends  
 - [x] [B9 Stock Patches][thread:B9S]  
 - [x] [B9PartSwitcher][thread:B9] 
 - [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 

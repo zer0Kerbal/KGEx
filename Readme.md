@@ -25,7 +25,7 @@ updated: 2020 03 27 -->
 [![CKAN][image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-### Recomends  
+### Recommends  
 - [x] [B9 Stock Patches][thread:B9S]  
 - [x] [B9PartSwitcher][thread:B9] 
 - [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 
@@ -38,7 +38,6 @@ updated: 2020 03 27 -->
 - [x] [Docking Port Descriptions(DPD)][thread:DPD]  
 - [x] [PicoPort Shielded (PPS)][thread:PPS]  
 - [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
-- [x] [Stork Delivery System (SDS)][thread:SDS]
 - [x] [Biomatic][thread:BIO]
 - [x] [Oh Scrap!][thread:OHS]:  
 - [x] [ScrapYard][thread:SYD]:  
@@ -51,11 +50,12 @@ updated: 2020 03 27 -->
 - [x] [SimpleConstructon!][thread:SC!]  
 - [x] [Not So SimpleConstructon!][thread:NSSC] 
 ### Supports
-- [x] [B9 Stock Patches][thread:B9S]
-- [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 
-- [x] [TweakScale][thread:twk]
-- [x] [B9PartSwitcher][thread:B9] 
-- [x] [Community Resource Pack][thread:crp]
+- [x] [B9 Stock Patches][thread:B9S]  
+- [x] [On Demand Fuel Cells (ODFC)][thread:ODFC]  
+- [x] [TweakScale][thread:twk]  
+- [x] [B9PartSwitcher][thread:B9]  
+- [x] [Community Resource Pack][thread:crp]  
+- [x] [Kerbal Change Log][thread:kcl]  
 ### Conflicts
 - [x] none known
 ***  
