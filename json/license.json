@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "label": "License",
   "labelColor": "black",
-  "message": "MIT",
+  "message": "GPLv3",
   "color": "red",
-  "style": "plastic"
+  "style": "plastic"  
 }
