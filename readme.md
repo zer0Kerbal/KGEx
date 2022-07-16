@@ -13,9 +13,6 @@ updated: 05 Jul 2022 -->
 
 # KGEx (KGX)
 
-also known as **KerGuise Engineering eXperimental**
-
-
 > Common B9 tanktypes and TweakScale scaletypes for mods.
 
 ## By [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
