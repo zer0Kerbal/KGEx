@@ -47,8 +47,6 @@ Agency, flags, common files, tanktypes, and scaletypes for addons. For Kerbal Sp
 
 ---
 
----
-
 ### Installation Directions [^1]
 
 ***Use***
