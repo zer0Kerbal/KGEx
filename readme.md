@@ -141,14 +141,6 @@ agency, flag, config
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
-
-### License
-
-License: ![License MIT][shield:license] ![][LOGO:mit]
-### Original
-Source: [GitHub][MOD:original:source]
-License: ![License MIT][shield:license] ![][LOGO:mit]
-
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "CurseForge"
 [MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "GitHub"
