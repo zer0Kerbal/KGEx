@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.2
-KGEx (ABBV)
+KGEx (KGx)
 created: 17 Jul 2017
 updated: 05 Jul 2022 -->
 
@@ -185,7 +185,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "B9 Stock Patches"
 [DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions (DPD)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/  "Inflatable PicoPorts (IPP)"
+[IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/  "KGEx (KGx)"
 [MHH]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
 [MSB]: https://github.com/zer0Kerbal/MoreServiceBays "More Service Bays"
 [MCU]: https://github.com/zer0Kerbal/MoreCupolas "More Cupolas"
