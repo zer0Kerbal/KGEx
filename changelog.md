@@ -35,10 +35,25 @@
   * [Notices.md] v1.0.0.0
   * [Why.md] v1.1.0.0
   * [_config.yml]
+* closes #28 - add docs
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.1.0
+    * [quickstart.md] v1.0.1.0
+* Updates #10 - Localization Master
+* Closes #11 - Localization - English <en-us.cfg>
 
 ### Status
 
 * Issues
+  * closes #6 - KGEx (KGX) 1.1.0.0-release `<EDITION>`
+  * closes #7 - 1.1.0.0 Verify Legal Mumbo Jumbo
+  * closes #8 - 1.1.0.0 Update Documentation
+  * closes #9 - 1.1.0.0 Update Social Media
 
 ---
 
