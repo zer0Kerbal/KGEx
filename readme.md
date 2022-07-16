@@ -11,7 +11,7 @@ updated: 05 Jul 2022 -->
 
 
 
-# KGEx KerGuise Engineering eXperimental (KGX)
+# KGEx (KGX)
 
 also known as **KerGuise Engineering eXperimental**
 
