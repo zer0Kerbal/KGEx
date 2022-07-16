@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # KGEx (KGX)
 
-Agency, Flags, common files, tanktypes, and scaletypes for addons. For Kerbal Space Program.
+Agency, flags, common files, tanktypes, and scaletypes for addons. For Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
 
@@ -128,7 +128,7 @@ agency, flag, config
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/KGEx/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "KGEx Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*/ "KGEx Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/KGEx/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KGEx/blob/master/LICENSE "Github License"
 [MOD:markt]: https://zer0kerbal.github.io/KGEx/Marketing "Marketing Slicks"
@@ -139,65 +139,29 @@ agency, flag, config
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
+
+### License
+
+License: ![License MIT][shield:license] ![][LOGO:mit]
+### Original
+Source: [GitHub][MOD:original:source]
+License: ![License MIT][shield:license] ![][LOGO:mit]
+
 <!--- mod provenance -->
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "Dropbox"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "Dropbox"
+[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "CurseForge"
+[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "KSP Forum"
 
 <!--- license provenance -->
-[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+[LIC:0:url]: https://mit-license.org/ "Expat-MIT License"
+[LIC:0:shd]: https://img.shields.io/badge/License-Expat/MIT-3DA639?labelColor=black&logoColor=3DA639&logo=OpenSourceInitiative&style=plastic "Expat-MIT License"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json "CC BY-NC-SA 4.0"
 
-<!--- GPLv2
-[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"
-[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LIC:0:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json
-https://img.shields.io/badge/License-GPLv2-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv2"
--->
-
-<!--- GPLv3
-[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPLv3"
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json
-https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv3"
-
-[LIC:0:url]: http://www.wtfpl.net/about/ "WTFPL"
-[LIC:0:log]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
-[LIC:0:shd]: https://img.shields.io/badge/License-WTFPL-white?style=plastic&labelColor=purple "WTFPL"
--->
-
-<!-- Expat/MIT
-https://img.shields.io/badge/License-Expat/MIT-3DA639?labelColor=black&logoColor=3DA639&logo=OpenSourceInitiative&style=plastic "Expat-MIT" -->
-
-
-### License
-
-#### aka Legal Mumbo Jumbo
-Source: [GitHub][MOD:github:repo]
-License: ![License MIT][shield:license] ![][LOGO:mit]
-> *** All bundled mods are distributed under their own licenses***
-> *** All art assets (textures, models, animations) are distributed under their own licenses*** 
-### Original
-Author: [@zer0Kerbal][zer0Kerbal]
-[Thread][MOD:original:thread]
-[Download][MOD:original:download]
-Source: [GitHub][MOD:original:source]
-License: ![License MIT][shield:license] ![][LOGO:mit]
-
-[MOD:forum]:       https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*/
-
-[MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "Dev Thread" 
-
-<!-- zer0Kerbal mods -->
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
