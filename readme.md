@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # KGEx (KGX)
 
-> Common B9 tanktypes and TweakScale scaletypes for mods.
+Agency, Flags, common files, tanktypes, and scaletypes for addons. For Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
 
