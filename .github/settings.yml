@@ -11,7 +11,7 @@ repository:
   name: KGEx
 
   # A short description of the repository that will show up on GitHub
-  description: Agency, Flags, common files, tanktypes, and scaletypes for addons. For Kerbal Space Program.
+  description: Agency, flags, common files, tanktypes, and scaletypes for addons. For Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*/
