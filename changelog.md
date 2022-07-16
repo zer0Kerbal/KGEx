@@ -10,6 +10,19 @@
 | spacedock  | (https://spacedock.info/mod/2365)                                 |
 | ckan       | KGEx                                                              |
 
+## Verison 1.0.0.2-release - `<EDITION>` edition
+
+* 15 Jul 2022
+* Released for KSP 1.12.3
+
+### Summary
+
+### Status
+
+* Issues
+
+---
+
 ## Verison 1.0.0.2-release - for KSP 1.9.1
 
 * 27 Mar 2020
