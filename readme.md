@@ -1,169 +1,298 @@
-<!-- Readme.md v1.1.3.0
-KGEx KerGuise Engineering eXperimental (KGX) 
-created: 23 Sep 2019
-updated: 2020 03 27 -->
+<!-- readme.md v1.6.9.2
+KGEx (ABBV)
+created: 17 Jul 2017
+updated: 05 Jul 2022 -->
 
-## Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][MOD:rel-ckan]. 
-# KGEx (KGX)  
-### also known as **KerGuise Engineering eXperimental**
-## by [zer0Kerbal][LINK:zer0Kerbal]  
-![Mod Version][shield:mod:latest] 
-![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
-![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
-![Validate AVC .version files][shield:avcvalid] 
+<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
+
+[![KGEx][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
+[![Pages][MOD:pages:shd]][MOD:pages]
+
+
+
+# KGEx KerGuise Engineering eXperimental (KGX)
+
+also known as **KerGuise Engineering eXperimental**
+
 
 > Common B9 tanktypes and TweakScale scaletypes for mods.
 
-### Full Changelog:
-*See [ChangeLog][MOD:changelog] for full details of mod changes*
-***
-### Known Issues:
-*See [Known Issuues][MOD:known] for any known issues*
-***
-### Installation Directions:
-- Use  
-[![CKAN][image:rel-ckan]][thread:ckan]
+## By [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/img/HeroLogo_1920x1920.png" alt="KGEx Hero" width="50%" height="50%">
+
+---
+
+### See More
+
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
+* GitHub Pages : See [Pages][MOD:pages]
+
+### Help Wanted
+
+> * Compatibility patches
+> * Contracts for these glorious parts
+> * Variant Textures
+> * Converting from FireSpitter to Stock and/or KSPWheel
+> * Model updates to Unity 2019
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+
+---
+
+### Localization
+
+>* ![English][EN] English
+>* ***your translation here***
+>
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+
+---
+
+---
+
+### Installation Directions [^1]
+
+***Use***
+  CurseForge/OverWolf App (currently does not install dependencies)
+
+  <a href="https://download.curseforge.com/">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
+</a>
+
+Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
+Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
+
+or [![CKAN][CKAN:img]][CKAN:url]
+
 ### Dependencies
-- [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-### Recommends  
-- [x] [B9 Stock Patches][thread:B9S]  
-- [x] [B9PartSwitcher][thread:B9] 
-- [x] [On Demand Fuel Cells (ODFC)][thread:ODFC] 
-- [x] [TweakScale][thread:twk]
-- [x] [Module Manager][thread:mm] [^1]
-## Suggests  *(other fun mods by zed'K)*:
-- [x] [On Demand Fuel Cells (ODFC)][thread:ODFC]  
-- [x] [Field Training Lab (FTL)][thread:FTL]  
-- [x] [Field Training Facility (FTF)][thread:FTF]  
-- [x] [Docking Port Descriptions(DPD)][thread:DPD]  
-- [x] [PicoPort Shielded (PPS)][thread:PPS]  
-- [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
-- [x] [Biomatic][thread:BIO]
-- [x] [Oh Scrap!][thread:OHS]:  
-- [x] [ScrapYard][thread:SYD]:  
-- [x] [DaMichel's AeroRadial][thread:DAR]  
-- [x] [DaMichel's CargoBays][thread:DCB]  
-- [x] [DaMichel's Fuselage][thread:DMF]  
-- [x] [DaMichel's Spherical Tanks][thread:DST]  
-- [x] [Stork Delivery System (SDS)][thread:SDS]  
-- [x] [SimpleLogistics!][thread:SL!]  
-- [x] [SimpleConstructon!][thread:SC!]  
-- [x] [Not So SimpleConstructon!][thread:NSSC] 
-### Supports
-- [x] [B9 Stock Patches][thread:B9S]  
-- [x] [On Demand Fuel Cells (ODFC)][thread:ODFC]  
-- [x] [TweakScale][thread:twk]  
-- [x] [B9PartSwitcher][thread:B9]  
-- [x] [Community Resource Pack][thread:crp]  
-- [x] [Kerbal Change Log][thread:kcl]  
-### Conflicts
-- [x] none known
-***  
-*red box below is a link to forum post on how to get support*  
-[![How to get support][image:get-support]][thread:getsupport]
+
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+
+### Suggests
+
+* [B9 Stock Patches][B9S]
+* [Docking Port Descriptions(DPD)][DPD]
+* [GPO SpeedPump (GPO)][GPO]
+* [Inflatable PicoPort (IPP)][IPP]
+* [Shielded PicoPort (SPP)][SPP]
+* [More Hitchhikers (MHH)][MHH]
+* [More Service Bays][MSB]
+* [More Cupolas][MCU]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [TweakScale][twk]
+* Either [^3]
+  * [Module Manager][mm]
+  * [Module Manager /L][mml]
+
+### Tags
+
+agency, flag, config
+
+<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
+  <p><b>red box below is a link to forum post on how to get support</b></p>
+  <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
+    <p><img src="https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
+  <p style="color: #000000;">Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p>
+</div>
+
+### Credits and Special Thanks
+
+* see [Attribution.md][MOD:attr] for more comprehensive list
+
+### Legal Mumbo Jumbo (License *provenance*)
+
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
+
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
+> License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
+>
+> ##### Disclaimer(s)
+>
+> ***All bundled mods are distributed under their own licenses***
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
+
+##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
+
+#### Original (0) - Author: [`zer0Kerbal`][zer0Kerbal]
+
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [GitHub][MOD:0:source]
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+
+---
+
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+
+<!-- mod links -->
+[MOD:attr]: https://zer0kerbal.github.io/KGEx/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/changelog.md  "Changelog"
+[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
+[MOD:discu]: https://github.com/zer0Kerbal/KGEx/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "KGEx Forum Thread"
+[MOD:issue]: https://github.com/zer0Kerbal/KGEx/issues "Issues"
+[MOD:licns]: https://github.com/zer0Kerbal/KGEx/blob/master/LICENSE "Github License"
+[MOD:markt]: https://zer0kerbal.github.io/KGEx/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/KGEx/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/KGEx/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/KGEx "GitHub Pages"
+
+<!--- mod -->
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/mod.json
+
+[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/code.json
+
+[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+
+<!--- mod provenance -->
+[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "Dropbox"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/KGEx5.rar?dl=0 "Dropbox"
+
+<!--- license provenance -->
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+
+[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json "CC BY-NC-SA 4.0"
+
+<!--- GPLv2
+[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"
+[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
+[LIC:0:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json
+https://img.shields.io/badge/License-GPLv2-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv2"
+-->
+
+<!--- GPLv3
+[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPLv3"
+[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json
+https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv3"
+
+[LIC:0:url]: http://www.wtfpl.net/about/ "WTFPL"
+[LIC:0:log]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
+[LIC:0:shd]: https://img.shields.io/badge/License-WTFPL-white?style=plastic&labelColor=purple "WTFPL"
+-->
+
+<!-- Expat/MIT
+https://img.shields.io/badge/License-Expat/MIT-3DA639?labelColor=black&logoColor=3DA639&logo=OpenSourceInitiative&style=plastic "Expat-MIT" -->
+
+
 ### License
+
 #### aka Legal Mumbo Jumbo
-Source: [GitHub][MOD:github:repo]  
-License: ![License MIT][shield:license] ![][LOGO:mit]    
-> *** All bundled mods are distributed under their own licenses***  
-> *** All art assets (textures, models, animations) are distributed under their own licenses***   
+Source: [GitHub][MOD:github:repo]
+License: ![License MIT][shield:license] ![][LOGO:mit]
+> *** All bundled mods are distributed under their own licenses***
+> *** All art assets (textures, models, animations) are distributed under their own licenses*** 
 ### Original
-Author: [@zer0Kerbal][LINK:zer0Kerbal]  
-[Thread][MOD:original:thread]  
-[Download][MOD:original:download]  
-Source: [GitHub][MOD:original:source]  
-License: ![License MIT][shield:license] ![][LOGO:mit]  
-<!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
-###### v1.0.0.2 original: 11 Aug 2018 0K updated: 27 Mar 2020 zed'K
-[MOD:license]:      https://github.com/zer0Kerbal/KGEx/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/KGEx/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]:       https://github.com/zer0Kerbal/KGEx/issues  
-[MOD:wiki]:         https://github.com/zer0Kerbal/KGEx/  
-[MOD:known]:        https://github.com/zer0Kerbal/KGEx/wiki/Known-Issues  
-[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*   
-[MOD:github:repo]:  https://github.com/zer0Kerbal/kgex/
-[MOD:changelog]:    https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/Changelog.cfg
-[KSP:website]:      http://kerbalspaceprogram.com/
+Author: [@zer0Kerbal][zer0Kerbal]
+[Thread][MOD:original:thread]
+[Download][MOD:original:download]
+Source: [GitHub][MOD:original:source]
+License: ![License MIT][shield:license] ![][LOGO:mit]
 
-<!--- original mod stuff -->
-[MOD:original:source]:   https://github.com/zer0Kerbal/KGEx/
-[MOD:original:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "Dev Thread" 
-[MOD:original:download]:  https://github.com/zer0Kerbal/KGEx/
+[MOD:forum]:       https://forum.kerbalspaceprogram.com/index.php?/topic/192696-*/
 
-<!--- license logo urls -->
-[LOGO:mit]:   https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
-
-[MOD:rel-github]:    https://github.com/zer0Kerbal/KGEx/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/2365
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/KGEx
-[MOD:rel-ckan]:       http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
-
-[image:rel-github]:     https://i.imgur.com/RE4Ppr9.png
-[image:rel-spacedock]:  https://i.imgur.com/m0a7tn2.png
-[image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
-[image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
-
-[image:rel-ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png
-[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
-[image:source]:    https://i.postimg.cc/tJ8GqW0H/source.png
-
-
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/KGEx?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/license.json
-[shield:code]:    https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/code.json  
-[shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
-[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
-[shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
-[shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
-[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic  
-[shield:avcvalid]:   https://github.com/zer0Kerbal/KGEx/workflows/Validate%20AVC%20.version%20files/badge.svg
+[MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "Dev Thread" 
 
 <!-- zer0Kerbal mods -->
-[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
-[thread:FTF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Facility"
-[thread:FTL]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Lab"
-[thread:MHH]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
-[thread:TCP]:  https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"
-[thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke Tiny Parts"  
-[thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"
-[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"
+<!--- CKAN -->
+[CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
+[CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/ckan.json "CKAN"
 
-[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions (DPD)"   
-[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*  "PicoPort Shielded (PPS)"  
-[thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks (DST)"  
-[thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage (DMF)"  
-[thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial (DAR)"  
-[thread:DCB]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays (DCB)"  
-[thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"  
-[thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"  
-[thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
-[thread:NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
-[thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
-[thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Patches"  
-[thread:CTN]:  http:// "CTN (CTN)"  
-[thread:DRL]: https:// "DRElite (DRL)"  
-[thread:VG0]:  http:// "Vanguard (VG0)"  
-[thread:PRB]:  http:// "ProbiTronics (BPT)"  
-[thread:HB!]:  http:// "HotBeverages (HBR)"  
+<!--- release links -->
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/KGEx "Curseforge"
+[CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[thread:mm]:   http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "ModuleManager"  
-[thread:kcl]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"  
-[thread:ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
+[GITHUB:url]: https://github.com/zer0Kerbal/KGEx/ "GitHub"
+[GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:B9]:  http://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switcher"  
-[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/166314-* "Community Resource Pack" 
+[SPCDCK:url]: http://spacedock.info/mod/2365 "SpaceDock"
+[SPCDCK:shd]: https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
-[image:get-support]: https://i.postimg.cc/vHP6zmrw/image.png
-[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
+<!-- Kerbal Space Program -->
+[KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KGEx/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
-[^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*  
-<!-- 
-this file is licensed:
-GPLv2 2020
-zer0Kerbal
--->
+<!-- links to add-ons/mods -->  
+[B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "B9 Stock Patches"
+[DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions (DPD)"
+[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
+[IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/  "Inflatable PicoPorts (IPP)"
+[MHH]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
+[MSB]: https://github.com/zer0Kerbal/MoreServiceBays "More Service Bays"
+[MCU]: https://github.com/zer0Kerbal/MoreCupolas "More Cupolas"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[SPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/  "Shielded PicoPorts (SPP)"
+
+[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
+[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
+
+<!-- financial support -->
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
+[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
+[GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
+[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
+
+<!-- Localization -->
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
+
+[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[reddit]: https://www.reddit.com/user/zer0Kerbal
+[twitch]: https://www.twitch.tv/zer0kerbal
+[twitter]: https://twitter.com/zer0Kerbal
+[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+
+[sagesagan]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "Sage Sagan"
+[blackheart]: https://forum.kerbalspaceprogram.com/index.php?/profile/42741-*/ "Blackheart612"
+[daemoria]: https://forum.kerbalspaceprogram.com/index.php?/profile/103696-*/ "Daemoria"  
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
+[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
+
+---
+
+#### Connect with me
+
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/KGEx/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+
+<!-- footnotes -->
+[^1]: this isn't a mod. ;P
+[^2]: ***may*** work on other versions (YMMV)
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
