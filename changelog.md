@@ -22,6 +22,7 @@
 * [TacSelfDestruct-Decouplers.cfg]
   * Unbalanced braces
 * closes #29 - [Bug 🐞]: TacSelfDestruct-Decouplers unbalanced braces
+* [B9TankTypes.cfg] v1.4.0.0
 
 ### docs/
 
@@ -42,8 +43,8 @@
 * Create
   * Localization/
     * <en-us.cfg>
-    * [readme.md] v2.1.1.0
-    * [quickstart.md] v1.0.1.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
 * Updates #10 - Localization Master
 * Closes #11 - Localization - English <en-us.cfg>
 
