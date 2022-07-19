@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2365)                                 |
 | ckan       | KGEx                                                              |
 
-## Verison 1.0.0.2-release - `<EDITION>` edition
+## Verison 1.1.0.0-release - `<On Final Approach>` edition
 
 * 15 Jul 2022
 * Released for KSP 1.12.3
@@ -23,6 +23,16 @@
   * Unbalanced braces
 * closes #29 - [Bug 🐞]: TacSelfDestruct-Decouplers unbalanced braces
 * [B9TankTypes.cfg] v1.4.0.0
+  * massive cleanup
+  * localization
+  * colorization
+
+### Documentation
+
+* [KGEx.version]
+  * Remove
+    * [KSP_VERSION_MIN]
+    * [KSP_VERSION_MAX]
 
 ### docs/
 
@@ -51,7 +61,7 @@
 ### Status
 
 * Issues
-  * closes #6 - KGEx (KGX) 1.1.0.0-release `<EDITION>`
+  * closes #6 - KGEx (KGX) 1.1.0.0-release `<On Final Approach>` edition
   * closes #7 - 1.1.0.0 Verify Legal Mumbo Jumbo
   * closes #8 - 1.1.0.0 Update Documentation
   * closes #9 - 1.1.0.0 Update Social Media
