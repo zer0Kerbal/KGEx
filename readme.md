@@ -113,7 +113,7 @@ agency, flag, config
 #### Original (0) - Author: [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [GitHub][MOD:0:source]
-> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+> License: [![License][LIC:0:shd]][LIC:0:url]
 
 ---
 
