@@ -23,12 +23,15 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/2365)                                 |
 | ckan       | KGEx                                                              |
 
-## Verison 1.1.0.0-release - `<On Final Approach>` edition
+## Version 1.1.0.0-release - `<On Final Approach>` edition
 
 * 15 Jul 2022
 * Released for KSP 1.12.3
 
 ### Summary
+
+* General updating and cleaning; some minor bug fixes.
+* Added Localization support.
 
 ### Fix
 
@@ -81,7 +84,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Verison 1.0.0.2-release - for KSP 1.9.1
+## Version 1.0.0.2-release - for KSP 1.9.1
 
 * 27 Mar 2020
 * Released for Kerbal Space Program 1.9.1
@@ -97,7 +100,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Verison 1.0.0.1-release - for KSP 1.8.1
+## Version 1.0.0.1-release - for KSP 1.8.1
 
 * 26 Mar 2020
 * Released for Kerbal Space Program 1.8.1
@@ -106,7 +109,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Verison 1.0.0.0-release - for KSP 1.7.x
+## Version 1.0.0.0-release - for KSP 1.7.x
 
 * 15 Mar 2020
 * Released for Kerbal Space Program 1.7.x
@@ -126,7 +129,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Verison 0.9.99.0-prerelease
+## Version 0.9.99.0-prerelease
 
 * 15 Mar 2017
 * Released for Kerbal Space Program 1.3.x+
